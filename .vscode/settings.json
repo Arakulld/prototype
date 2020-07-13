@@ -1,0 +1,11 @@
+{
+"editor.tabSize": 2,
+"files.autoSave": "onWindowChange",
+"html.format.indentInnerHtml": true,
+"html-css-class-completion.enableEmmetSupport": true,
+"html.format.contentUnformatted": "",
+"html.autoClosingTags": true,
+"html.format.endWithNewline": true,
+
+
+}
